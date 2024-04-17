@@ -1,0 +1,8 @@
+class  celula { 
+    Celula proxima; Esse representa a proxima celula a ser apontada
+    Object elemento; Esse é o elemento/valor/dado a ser guardado na celula e já que é do tipo Object, ele pode guardar qualquer tipo de variavel
+}
+No diagrama mostra que temos celulas apontando para a proxima ao lado
+A celula é o quadrado e dentro é o elemento 999.
+O atributo proximo na classe Celula é o equivalente ao ponteiro Próximo (a linnha com a bolinha )no diagrama.
+O atributo elemento na classe Celula é o equivalente ao espaço reservado (999) no diagrama.
